@@ -1,0 +1,28 @@
+﻿/* TEAM
+============================================================= */
+
+  The Artist: Diego Koscky
+  Twitter:
+  Site: http://diegokoscky.com.br
+  From: BH, MG Brasil
+
+  The Front End: Diego Koscky
+  Twitter: 
+  Site: http://diegokoscky.com.br
+  From: BH, MG Brasil
+
+  The Developer:Diego Koscky
+  Twitter: 
+  Site: http://diegokoscky.com.br
+  From: BH, MG Brasil
+
+
+
+/* PROJECT
+============================================================= */
+
+  Name: Diego Koscky - Web Designer | Freelancer | Bacharel em Sistemas
+  Last update: 09/05/2015
+  Language: Português
+  Technology: PHP, HTML5, CSS3, jQuery, JavaScript, MaterializeCSS
+  Softwares: Sublime Text 3, Notepad++
