@@ -22,7 +22,7 @@
 ============================================================= */
 
   Name: Diego Koscky - Web Designer | Freelancer | Bacharel em Sistemas
-  Last update: 09/05/2015
+  Last update: 08/04/2021
   Language: Português
   Technology: PHP, HTML5, CSS3, jQuery, JavaScript, MaterializeCSS
   Softwares: Sublime Text 3, Notepad++
