@@ -396,7 +396,7 @@
               </p>
               <p class="links-texto">diego@diegokoscky.com.br</p>
               <p>
-                <a href="#contatos" title="Me envia um email!" class="btn-email">
+                <a href="mailto:diego@diegokoscky.com.br" title="Me envia um email!" class="btn-email">
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 25.73 25.73" style="enable-background:new 0 0 25.73 25.73;" xml:space="preserve">
                   <g>
                     <g>
@@ -422,7 +422,7 @@
         <div class="col 112 s12">
           <h5 class="white-text">Vamos socializar!</h5>
           <p class="grey-text text-lighten-4">
-            Estou ansioso para te ouvir! Sinta-se à vontade para entrar em contato comigo por <a href="#contato"><b>email</b></a>, 
+            Estou ansioso para te ouvir! Sinta-se à vontade para entrar em contato comigo por <a href="mailto:diego@diegokoscky.com.br"><b>email</b></a>, 
             <a href="#contato"><b>telefone</b></a> ou pelas redes sociais abaixo!
           </p>
           <div class="siga_me">
