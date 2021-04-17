@@ -93,6 +93,7 @@ p {
 #portfolio a {
     display: block;
     position: relative;
+    margin-bottom: 30px;
 }
 .portfolio-info {
     background: rgba(0,0,0,0.8);
@@ -106,7 +107,7 @@ p {
     transition: all ease 0.4s;
     padding: 0 15px;    
     display: flex;
-    webkit-display:flex;
+    -webkit-display:flex;
     align-items: center;
     justify-content: center;
 }
@@ -192,7 +193,7 @@ footer.page-footer {
     box-shadow: 0 1px 0 0 #409EC2;
 }
 .input-field input[type=email]:focus + label {
-    color: #409EC23;
+    color: #409EC3;
 }
 textarea.materialize-textarea:focus:not([readonly]) {
     border-bottom: 1px solid #409EC2;

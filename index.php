@@ -199,8 +199,19 @@
             </div>
 
             <div class="col s12 m4">
+                <a href='https://finehra.com.br/' target="_blank" title="Finehra" rel="nofollow">
+                  <img class="portfolio responsive-img" alt="Portfólio" src="imgs/tela-finehra.png">
+                  <div class="portfolio-info">
+                    <div>
+                      <h2>Finehra</h2>
+                      <p>A energia elétrica da sua casa de um jeito diferente</p>
+                    </div>                    
+                  </div>
+                </a>
+            </div>
+            <div class="col s12 m4">
                 <a href='http://www.injetec.com.br/' target="_blank" title="Injetec" rel="nofollow">
-                  <img class="portfolio responsive-img" alt="Portfólio Injetec" src="imgs/portfolio2.png">
+                  <img class="portfolio responsive-img" alt="Portfólio Injetec" src="imgs/tela-injetec.png">
                   <div class="portfolio-info">
                     <div>
                       <h2>Injetec</h2>
@@ -209,31 +220,10 @@
                   </div>
                 </a>
             </div>
+
             <div class="col s12 m4">
-                <a href='http://proquiminas.com.br/' target="_blank" title="Proquiminas" rel="nofollow">
-                  <img class="portfolio responsive-img" alt="Portfólio Proquiminas" data-caption="" src="imgs/portfolio.png">
-                  <div class="portfolio-info">
-                    <div>
-                      <h2>Proquiminas</h2>
-                      <p>Site institucional da empresa de borrachas Proquiminas.</p>
-                    </div>                    
-                  </div>
-                </a>
-            </div>
-            <div class="col s12 m4">
-                <a href='http://vaceelevadores.com.br/' target="_blank" title="Vace Elevadores" rel="nofollow">
-                  <img class="portfolio responsive-img" alt="Portfólio Vace Elevadores" src="imgs/portfolio1.png">
-                  <div class="portfolio-info">
-                    <div>
-                      <h2>Vace Elevadores</h2>
-                      <p>Site institucional da empresa Vace Elevadores.</p>
-                    </div>                    
-                  </div>
-                </a>
-            </div>
-            <div class="col s12 m4" style="margin-top: 30px;">
                 <a href='http://www.tomikoambiental.com.br' target="_blank" title="Tomiko Ambiental" rel="nofollow">
-                  <img class="portfolio responsive-img" alt="Portfólio Tomiko Ambiental" src="imgs/portfolio3.png">
+                  <img class="portfolio responsive-img" alt="Portfólio Tomiko Ambiental" src="imgs/tela-tomiko.png">
                   <div class="portfolio-info">
                     <div>
                       <h2>Tomiko Ambiental</h2>
@@ -242,24 +232,38 @@
                   </div>
                 </a>
             </div>
-            <div class="col s12 m4" style="margin-top: 30px;">
-                <a href='http://smartlogger.com.br' target="_blank" title="SmartLogger" rel="nofollow">
-                  <img class="portfolio responsive-img" alt="Portfólio SmartLogger" src="imgs/portfolio4.png">
-                  <div class="portfolio-info">
-                    <div>
-                      <h2>SmartLogger</h2>
-                      <p>Site do produto de telemetria SmartLogger</p>
-                    </div>                    
-                  </div>
-                </a>
-            </div>
-            <div class="col s12 m4" style="margin-top: 30px;">
+
+            <div class="col s12 m4">
                 <a href='https://emprestimofacil.com' target="_blank" title="Emprestimofacil.com" rel="nofollow">
-                  <img class="portfolio responsive-img" alt="Portfólio Emprestimofacil.com" src="imgs/portfolio5.png">
+                  <img class="portfolio responsive-img" alt="Portfólio Emprestimofacil.com" src="imgs/tela-emprestimofacil.png">
                   <div class="portfolio-info">
                     <div>
                       <h2>Emprestimofacil.com</h2>
                       <p>Site da correspondente financeira Emprestimofacil.com</p>
+                    </div>                    
+                  </div>
+                </a>
+            </div>
+
+            <div class="col s12 m4">
+                <a href='http://proquiminas.com.br/' target="_blank" title="Proquiminas" rel="nofollow">
+                  <img class="portfolio responsive-img" alt="Portfólio Proquiminas" data-caption="" src="imgs/tela-proquiminas.png">
+                  <div class="portfolio-info">
+                    <div>
+                      <h2>Proquiminas</h2>
+                      <p>Site institucional da empresa de borrachas Proquiminas.</p>
+                    </div>                    
+                  </div>
+                </a>
+            </div>
+        
+            <div class="col s12 m4">
+                <a href='https://www.minhadietacomsaude.com.br/' target="_blank" title="Minha Dieta com Saúde" rel="nofollow">
+                  <img class="portfolio responsive-img" alt="Portfólio" src="imgs/tela-mdcs.png">
+                  <div class="portfolio-info">
+                    <div>
+                      <h2>MDCS</h2>
+                      <p>Blog de marketing digital Minha Dieta com Saúde</p>
                     </div>                    
                   </div>
                 </a>
