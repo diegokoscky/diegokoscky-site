@@ -35,28 +35,41 @@
   <title>Diego Koscky - Web Designer Freelancer BH | Marketing Digital</title>
   <link rel="canonical" href="https://www.diegokoscky.com.br" />
 
-  <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "url": "http://diegokoscky.com.br",
-    "logo": "http://diegokoscky.com.br/imgs/externos/diegokoscky.jpg",
-    "name": "Diego Koscky - Web Designer Freelancer BH | Marketing Digital",
-    "description": "Sou web designer freelancer em BH, especializado na criação de sites, soluções web personalizadas e estratatégias de marketing digital para alavancar seu negócio!",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+55-31-98717-9432",
-      "contactType": "Customer service"
-    }
-  }
-  </script>
-
   <!-- CSS  -->
   <link href="css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="shortcut icon" href="favicon.ico" />
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-M33ZFBL');</script>
+  <!-- End Google Tag Manager -->
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://diegokoscky.com.br",
+      "logo": "http://diegokoscky.com.br/imgs/externos/diegokoscky.jpg",
+      "name": "Diego Koscky - Web Designer Freelancer BH | Marketing Digital",
+      "description": "Sou web designer freelancer em BH, especializado na criação de sites, soluções web personalizadas e estratatégias de marketing digital para alavancar seu negócio!",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+55-31-98717-9432",
+        "contactType": "Customer service"
+      }
+    }
+  </script>
 </head>
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M33ZFBL"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
   <header class="white" id="inicio">
     <div class="navbar-fixed">
       <nav class="white" role="navigation">
@@ -490,7 +503,6 @@
 
         ga('create', 'UA-62786377-1', 'auto');
         ga('send', 'pageview');
-
       });
     </script>
   </body>
